@@ -22,6 +22,10 @@ header {
     margin-top: 2vw;
 }
 
+footer {
+    margin-top: 2vw;
+}
+
 #replayContainer {
     border: 4px solid #FAFAFF;
     color: #FAFAFF;
